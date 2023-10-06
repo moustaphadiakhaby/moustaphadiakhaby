@@ -16,15 +16,9 @@
 </p>
 
 <p align="center">
- <a href="https://moustaphadiakhaby.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="moustaphadiakhaby" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/moustapha-diakhaby-4075b4251" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="moustaphadiakhaby"/>
  </a>
- <!-- <a href="https://dev.to/moustaphadiakhaby" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="moustaphadiakhaby" />
- </a> -->
 </p>
 <br />
 
@@ -80,7 +74,7 @@
 
 <p align="center">
   <a href="https://github.com/moustaphadiakhaby">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moustaphadiakhaby&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moustaphadiakhaby&theme=radical&border=7F3FBF&background=0D1117" alt="Moustapha's GitHub streak"/>
   </a>
 </p>
 
