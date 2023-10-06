@@ -8,7 +8,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>France</b> 」
     <br>
@@ -98,4 +97,4 @@
 </a>
 
 
-![Moustapha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=moustaphadiakhaby&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Moustapha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=moustaphadiakhaby&custom_title=Moustapha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
